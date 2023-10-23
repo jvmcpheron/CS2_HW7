@@ -1,7 +1,5 @@
 //Jane McPheron
 
-//Teammates: Somayeh Najafi, Yassine Berrada, Tianyi Liang 
-
 /*
 CODE RUNNING EXAMPLES
                                                      
